@@ -1,6 +1,6 @@
 {
-  "name": "@adaptco/react-formgen",
-  "version": "1.0.0",
+  "name": "react-formgen",
+  "version": "1.0.1",
   "description": "Have the structure of your form in a JSON array, pass it into the FormGen component, and boom! Let there be form!",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/abdu997/react-formgen/issues"
   },
-  "homepage": "https://github.com/abdu997/react-formgen#readme"
+  "homepage": "https://github.com/abdu997/react-formgen#readme",
+  "devDependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.4.4"
+  }
 }
