@@ -1,6 +1,6 @@
 {
   "name": "react-formgen",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Have the structure of your form in a JSON array, pass it into the FormGen component, and boom! Let there be form!",
   "main": "index.js",
   "scripts": {
